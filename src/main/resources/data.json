@@ -1,0 +1,212 @@
+[
+  {
+    "title": "The Adventure Begins",
+    "genre": "Action",
+    "studio": "Paramount Pictures",
+    "year": 2018,
+    "actors": [
+      {
+        "name": "Chris Evans",
+        "nationality": "American",
+        "age": 40
+      },
+      {
+        "name": "Scarlett Johansson",
+        "nationality": "American",
+        "age": 38
+      },
+      {
+        "name": "Tom Hardy",
+        "nationality": "British",
+        "age": 46
+      }
+    ]
+  },
+  {
+    "title": "Mystery of the Lost Island",
+    "genre": "Adventure",
+    "studio": "Universal Pictures",
+    "year": 2021,
+    "actors": [
+      {
+        "name": "Dwayne Johnson",
+        "nationality": "American",
+        "age": 51
+      },
+      {
+        "name": "Emily Blunt",
+        "nationality": "British",
+        "age": 40
+      }
+    ]
+  },
+  {
+    "title": "The Last Horizon",
+    "genre": "Sci-Fi",
+    "studio": "Columbia Pictures",
+    "year": 2020,
+    "actors": [
+      {
+        "name": "Ryan Gosling",
+        "nationality": "Canadian",
+        "age": 43
+      },
+      {
+        "name": "Ana de Armas",
+        "nationality": "Cuban",
+        "age": 35
+      },
+      {
+        "name": "Zendaya",
+        "nationality": "American",
+        "age": 27
+      },
+      {
+        "name": "Oscar Isaac",
+        "nationality": "Guatemalan",
+        "age": 45
+      }
+    ]
+  },
+  {
+    "title": "Shadows in the Dark",
+    "genre": "Thriller",
+    "studio": "Warner Bros.",
+    "year": 2019,
+    "actors": [
+      {
+        "name": "Christian Bale",
+        "nationality": "British",
+        "age": 50
+      },
+      {
+        "name": "Rosamund Pike",
+        "nationality": "British",
+        "age": 44
+      }
+    ]
+  },
+  {
+    "title": "Love in the City",
+    "genre": "Romantic Comedy",
+    "studio": "Paramount Pictures",
+    "year": 2017,
+    "actors": [
+      {
+        "name": "Emma Stone",
+        "nationality": "American",
+        "age": 35
+      },
+      {
+        "name": "Ryan Reynolds",
+        "nationality": "Canadian",
+        "age": 47
+      }
+    ]
+  },
+  {
+    "title": "Galaxy Wars: A New Dawn",
+    "genre": "Sci-Fi",
+    "studio": "Universal Pictures",
+    "year": 2015,
+    "actors": [
+      {
+        "name": "Mark Hamill",
+        "nationality": "American",
+        "age": 72
+      },
+      {
+        "name": "Carrie Fisher",
+        "nationality": "American",
+        "age": 60
+      },
+      {
+        "name": "Daisy Ridley",
+        "nationality": "British",
+        "age": 32
+      }
+    ]
+  },
+  {
+    "title": "Under the Surface",
+    "genre": "Drama",
+    "studio": "Columbia Pictures",
+    "year": 2013,
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio",
+        "nationality": "American",
+        "age": 49
+      },
+      {
+        "name": "Kate Winslet",
+        "nationality": "British",
+        "age": 48
+      }
+    ]
+  },
+  {
+    "title": "The War Chronicles",
+    "genre": "War",
+    "studio": "Warner Bros.",
+    "year": 2022,
+    "actors": [
+      {
+        "name": "Brad Pitt",
+        "nationality": "American",
+        "age": 60
+      },
+      {
+        "name": "Marion Cotillard",
+        "nationality": "French",
+        "age": 48
+      },
+      {
+        "name": "Michael Fassbender",
+        "nationality": "Irish",
+        "age": 47
+      }
+    ]
+  },
+  {
+    "title": "The Great Escape",
+    "genre": "Action",
+    "studio": "Paramount Pictures",
+    "year": 2010,
+    "actors": [
+      {
+        "name": "Tom Cruise",
+        "nationality": "American",
+        "age": 61
+      },
+      {
+        "name": "Rebecca Ferguson",
+        "nationality": "Swedish",
+        "age": 40
+      }
+    ]
+  },
+  {
+    "title": "Comedy Central",
+    "genre": "Comedy",
+    "studio": "Columbia Pictures",
+    "year": 2019,
+    "actors": [
+      {
+        "name": "Will Ferrell",
+        "nationality": "American",
+        "age": 57
+      },
+      {
+        "name": "Kevin Hart",
+        "nationality": "American",
+        "age": 44
+      },
+      {
+        "name": "Tiffany Haddish",
+        "nationality": "American",
+        "age": 44
+      }
+    ]
+  }
+]
